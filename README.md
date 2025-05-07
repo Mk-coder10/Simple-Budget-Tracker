@@ -1,6 +1,6 @@
 # Simple Budget Tracker
 
-A beginner-friendly Python command-line application to track personal expenses.
+A beginner-friendly Python command-line application to track personal expenses in SAR.
 
 ##  Features
 
@@ -11,28 +11,31 @@ A beginner-friendly Python command-line application to track personal expenses.
 
 ##  File
 
-- `simple_budget_tracker.py` – Main script
+- [`simple_budget_tracker.py`](./simple_budget_tracker.py) – Main script
 
 ##  How to Run
 
 Make sure you have **Python installed**.
 
-Open terminal and run:
+Open your terminal and run:
 
 ```bash
-python simple_budget_tracker.py
+$ python simple_budget_tracker.py
 
 1. Add Expense
 2. View Expenses
 3. Exit
 Choose an option: 1
+
 Enter expense name: Coffee
 Enter amount (SAR): 10
 Expense added!
+
 Your Expenses:
 Coffee: 10.00 SAR
 Total: 10.00 SAR
 
+```
+## 👤 Author
 
-## Author
-Developed by @Mk-coder10
+Developed by [@Mk-coder10](https://github.com/Mk-coder10)
